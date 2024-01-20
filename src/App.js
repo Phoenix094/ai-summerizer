@@ -5,9 +5,12 @@ import './App.css';
 function App() {
   return (
     <main>
-      <p className='text-9xl'>
-        hello
-      </p>
+      <div className='main'>
+        <div className='gradient' />
+      </div>
+      <div className='app'>
+      
+      </div>
     </main>
   );
 }
